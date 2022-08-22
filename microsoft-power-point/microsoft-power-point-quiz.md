@@ -7,6 +7,8 @@
 - [ ] Title and Content
 - [ ] Title Onty
 
+[Source](https://www.bzziii.com/2022/08/when-you-create-new-blank-presentation-you-begin-with-one-blank-slide-what-is-the-layout-name-of-this-slide.html)
+
 #### Q2. What do you use to align objects on a slide to one another?
 
 - [ ] Layout tools
